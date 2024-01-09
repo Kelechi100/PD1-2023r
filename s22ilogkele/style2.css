@@ -29,7 +29,7 @@ img{
 .container{
         padding: 0 0.5rem;
 }
-h3, p {
+h3, p,dd {
         font-family:'Roboto', sans-serif;
         font-size: 1.5rem;
         font-weight: 500;
@@ -56,6 +56,16 @@ h2{
 }
 
 ul,ol{
+        font-family:'Roboto', sans-serif;
+        font-size: 1.5rem;
+        font-weight: 700;
+        margin-bottom: 0;
+        color: var(--bg-dark-gray), var(--bg-light-gray);
+        
+        
+
+}
+dl,dt{
         font-family:'Roboto', sans-serif;
         font-size: 1.5rem;
         font-weight: 700;
