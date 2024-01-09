@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 :root {
         --text-main: #212121;    
         --text-green: #006540;     
@@ -30,7 +30,7 @@ img{
 .container{
         padding: 0 0.5rem;
 }
-h3, p,dd {
+h3,p,dd {
         font-family:'Roboto', sans-serif;
         font-size: 1.5rem;
         font-weight: 500;
